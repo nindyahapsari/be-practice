@@ -1,0 +1,28 @@
+# .gitignore
+
+# Ignore node_modules
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore logs
+*.log
+
+# Ignore the build folder
+/dist
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+*.orig
+*.old
+*.sik
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
